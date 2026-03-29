@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Rockies">
+    <Name>Yellowstone</Name>
+    <Address>
+      <Number>2</Number>
+      <Street>Yellowstone Park Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="West">
+    <Name>Yosemite</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+
+  </NationalPark>
+
+  <NationalPark Region="Southwest">
+    <Name>Zion</Name>
+    <Name>Invalid Name</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Zion Canyon Scenic Drive</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+</NationalPark>

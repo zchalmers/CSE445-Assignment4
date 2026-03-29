@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+  <NationalPark Region="Southwest" Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Rockies">
+    <Name>Yellowstone</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>2</Number>
+      <Street>Yellowstone Park Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="West" Rating="4.9">
+    <Name>Yosemite</Name>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="Fresno">
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Southwest">
+    <Name>Zion</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="St.George">
+      <Number>1</Number>
+      <Street>Zion Canyon Scenic Drive</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Rockies" Rating="4.8">
+    <Name>Rocky Mountain</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>1000</Number>
+      <Street>US-36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Northeast">
+    <Name>Acadia</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="Bangor">
+      <Number>20</Number>
+      <Street>McFarland Hill Drive</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Southeast" Rating="4.9">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Southwest">
+    <Name>Bryce Canyon</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Bryce Canyon Scenic Drive</Street>
+      <City>Bryce Canyon City</City>
+      <State>UT</State>
+      <Zip>84717</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Southwest" Rating="4.7">
+    <Name>Arches</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="Grand Junction">
+      <Number>1</Number>
+      <Street>Manhattan Viewpoint</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Pacific Northwest">
+    <Name>Olympic</Name>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>3002</Number>
+      <Street>Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="West" Rating="4.8">
+    <Name>Joshua Tree</Name>
+    <Phone>123-123-1234</Phone>
+    <Phone>123-123-1234</Phone>
+    <Address>
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Region="Alaska">
+    <Name>Denali</Name>
+    <Phone>123-123-1234</Phone>
+    <Address NearestAirport="Fairbanks">
+      <Number>1</Number>
+      <Street>Park Road</Street>
+      <City>Denali Park</City>
+      <State>AK</State>
+      <Zip>99755</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
