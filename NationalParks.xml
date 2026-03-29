@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks xmlns="http://zchalmers.github.io/CSE445-Assignment4"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://zchalmers.github.io/CSE445-Assignment4 NationalParks.xsd">
 
   <NationalPark Region="Southwest" Rating="4.9">
     <Name>Grand Canyon</Name>
